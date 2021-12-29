@@ -1,4 +1,4 @@
-## Fala pessoa, eu soi o Luiz Fernando Amorim, sou Lider de Time e Trabalho com Tecnologia e Inovação!
+## Sou o Luiz Fernando Amorim e Trabalho com Liderança, Tecnologia e Inovação!
 
 <div align="center">
   <a href="https://github.com/nandoalpha">
@@ -13,7 +13,9 @@
   <img align="center" alt="LuizFernando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="LuizFernando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="LuizFernando-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="LuizFernando-M30" height="30" width="40" src="https://github.com/nandoalpha/nandoalpha/blob/4ee5a6a2417826533cf7b17c5d1a9183aaa7e3ed/m30.png">
+  <img align="center" alt="LuizFernando-M30" height="30" width="45" src="https://github.com/nandoalpha/nandoalpha/blob/4ee5a6a2417826533cf7b17c5d1a9183aaa7e3ed/m30.png">
+  <img align="center" alt="LuizFernando-KPM" height="30" width="45" src="https://github.com/nandoalpha/nandoalpha/blob/5c5845fcf428aaa91c6344f5dd4cd9a915885dcc/kpm1.png">
+  <img align="center" alt="LuizFernando-KPM" height="40" width="40" src="https://github.com/nandoalpha/nandoalpha/blob/5c5845fcf428aaa91c6344f5dd4cd9a915885dcc/psm-3.png">
   
   <!--img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"-->
 </div>
