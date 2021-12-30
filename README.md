@@ -1,4 +1,4 @@
-## Sou uma pessoa apaixonada por Liderança, Tecnologia e Inovação!
+## Sou o Luiz Fernado Amorim, uma pessoa apaixonada por Liderança, Tecnologia e Inovação!
 
 <div align="center">
   <a href="https://github.com/nandoalpha">
