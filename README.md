@@ -1,4 +1,4 @@
-## Sou o Luiz Fernando Amorim e Trabalho com Liderança, Tecnologia e Inovação!
+## Sou uma pessoa apaixonada por Liderança, Tecnologia e Inovação!
 
 <div align="center">
   <a href="https://github.com/nandoalpha">
