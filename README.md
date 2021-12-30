@@ -15,7 +15,7 @@
   <img align="center" alt="LuizFernando-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="LuizFernando-M30" height="30" width="45" src="https://github.com/nandoalpha/nandoalpha/blob/4ee5a6a2417826533cf7b17c5d1a9183aaa7e3ed/m30.png">
   <img align="center" alt="LuizFernando-KPM" height="30" width="45" src="https://github.com/nandoalpha/nandoalpha/blob/5c5845fcf428aaa91c6344f5dd4cd9a915885dcc/kpm1.png">
-  <img align="center" alt="LuizFernando-KPM" height="40" width="40" src="https://github.com/nandoalpha/nandoalpha/blob/5c5845fcf428aaa91c6344f5dd4cd9a915885dcc/psm-3.png">
+  <img align="center" alt="LuizFernando-KPM" height="40" width="40" src="https://github.com/nandoalpha/nandoalpha/blob/c1ace930e9d2969e792360b1aa13730d66d73599/csm.png">
 </div>
   
   ##
