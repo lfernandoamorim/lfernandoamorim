@@ -22,6 +22,11 @@
  
 <div>  
  
-  ![Snake animation](https://github.com/lfernandoamorim/lfernandoamorim/blob/output/github-contribution-grid-snake.svg) 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lfernandoamorim/lfernandoamorim/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lfernandoamorim/lfernandoamorim/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/lfernandoamorim/lfernandoamorim/output/github-contribution-grid-snake.svg" />
+  </picture>
  
 </div>
+
